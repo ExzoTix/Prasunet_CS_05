@@ -22,7 +22,7 @@ A network packet is a formatted unit of data that is transmitted across a networ
 3. **Trailer**: Some protocols include a trailer that can contain error-checking data like a Frame Check Sequence (FCS) to ensure the packet has not been corrupted during transmission.
 
 **Diagram of a Packet Structure**
-```
+
 +-----------------------------------------+
 |                Header                   |
 |      (e.g., IP, TCP/UDP headers)        |
@@ -33,7 +33,6 @@ A network packet is a formatted unit of data that is transmitted across a networ
 |                Trailer                  |
 |      (e.g., Frame Check Sequence)       |
 +-----------------------------------------+
-```
 
 **Types of Packets**
 

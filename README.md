@@ -2,6 +2,7 @@
 - Here we have to develop a packet sniffer tool that captures and analyzes network packets. We have to display relevant information such as source and destination IP addresses, protocols, and payload data.
 - **Note: Ensure the ethical use of the tool for educational purposes.**
 - We have to install **Scapy** in Python using pip.
+- We also have to use **Npcap**, a Windows packet capture library necessary for capturing packets on Windows systems.
 - Please find the python program **network_packet_analyzer.py** attached.
 
 # Network Packet
